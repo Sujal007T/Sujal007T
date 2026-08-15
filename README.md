@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/B.Tech%20CSE-PDEU%20Gandhinagar-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
 <img src="https://img.shields.io/badge/GATE%202026%20CS-AIR%2010%2C143-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="gate" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Gandhinagar%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20SDE--Backend%20Roles-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="status" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Backend%20%2F%20Fullstack%20Roles-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="status" />
 
 <br/><br/>
 
@@ -27,20 +27,20 @@
 
 ## `> whoami`
 
-Final-year CSE undergrad (PDEU, Gandhinagar &mdash; 9.66 GPA) building **distributed systems and backend infrastructure**, not CRUD wrappers. I design for correctness under concurrency first, features second: CRDT merge logic, idempotent event pipelines, and auth systems that fail closed, not open.
+Final-year CSE undergrad (PDEU, Gandhinagar &mdash; 9.66 GPA) building **backend systems and the full-stack products around them**, not CRUD wrappers. I design for correctness under concurrency first, features second: CRDT merge logic, idempotent event pipelines, and auth systems that fail closed, not open &mdash; then ship the React/TypeScript client that talks to them.
 
 GATE 2026 CS: **AIR 10,143** (top ~5% of ~2.1 lakh candidates). 440+ problems solved across LeetCode, Codeforces, CSES, and GFG.
 
 ```bash
 $ cat .profile
 
-ROLE        =  Backend / Distributed Systems Engineer (Fresher)
+ROLE        =  Backend / Fullstack Engineer (Fresher)
 EDU         =  B.Tech CSE, PDEU Gandhinagar (2027) | GPA 9.66
 RANK        =  GATE 2026 CS - AIR 10,143 (Top ~5%)
 DOMAIN      =  Real-time systems | Event-driven pipelines | Auth/RBAC
 BUILDING    =  GridSync  |  Notifly  |  JournalApp
 LOCATION    =  Gandhinagar, India
-OPEN_TO     =  SDE-Backend (Fresher) | Amazon | Flipkart | Swiggy | Razorpay | CRED
+OPEN_TO     =  SDE Backend / Fullstack (Fresher) | Amazon | Flipkart | Swiggy | Razorpay | CRED
 ```
 
 ---
@@ -59,6 +59,7 @@ A Google-Sheets-style collaborative spreadsheet engine built from first principl
 | **Stack** | Spring Boot 4.1 &middot; Java 21 &middot; React/TypeScript &middot; PostgreSQL 16 &middot; Redis 7 &middot; STOMP-over-SockJS |
 | **Concurrency** | Custom CRDT merger (pure function), HLC validation at the WebSocket boundary, atomic `op_id` idempotency |
 | **Correctness** | Reject-not-clamp clock validation, `(sheet_id, op_id)`-scoped idempotency, per-op `sheet_members` authorization |
+| **Frontend** | React/TypeScript grid client driving live cell edits over the same WebSocket channel &mdash; full request-to-render loop, not a backend-only build |
 | **Impact** | 14-phase system design executed from scratch; persistence layer with race-condition fixes verified |
 | **Repo** | [`github.com/Sujal007T/GridSync`](https://github.com/Sujal007T/GridSync) |
 
@@ -147,6 +148,7 @@ A 23-endpoint Spring Boot auth service taken from "JWT that works" to production
 | **Event-Driven Architecture** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Kafka producer/consumer, DLQ, idempotency, partition-level concurrency |
 | **Auth &amp; Authorization** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | JWT, refresh-token rotation with reuse detection, RBAC, per-op authorization |
 | **API &amp; Backend Design** | `&#9608;&#9608;&#9608;&#9608;&#9608; Strong` | Spring Boot, REST, WebSocket/STOMP, rate limiting (token bucket) |
+| **Frontend / Fullstack Delivery** | `&#9608;&#9608;&#9608;&#9607;&#9607; Working` | React, TypeScript &mdash; real-time UI wired to WebSocket/STOMP backend |
 | **Performance Engineering** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Diagnosed I/O bottlenecks, async dispatch on virtual threads, load testing |
 | **Cloud Deployment** | `&#9608;&#9608;&#9608;&#9607;&#9607; Working` | AWS EC2 deploys, Docker, actuator health checks |
 
@@ -168,7 +170,7 @@ grinding:
   - System design: outbox pattern, API gateway, service discovery
 
 open_to:
-  - SDE-Backend (Fresher) - campus & off-campus
+  - SDE Backend / Fullstack (Fresher) - campus & off-campus
   - Amazon | Flipkart | Swiggy | Razorpay | CRED | Meesho | Zepto | PhonePe
 ```
 
