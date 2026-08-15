@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-[`whoami`](#-whoami) · [`projects`](#-ls-projectssortimpact) · [`stats`](#-git-stats---global) · [`contact`](#-ping-me)
+[`whoami`](#-whoami) ·[`projects`](#-ls-projects---sortimpact) · [`stats`](#-git-stats---global) · [`contact`](#-ping-me)
 
 </div>
 
@@ -253,6 +253,5 @@ open_to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
 
 </div>
