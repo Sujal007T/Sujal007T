@@ -27,6 +27,12 @@
 
 ## `> whoami`
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=CAFF3C&background=0A0F08&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer+%7C+Distributed+Systems;Fullstack+Delivery+%E2%80%94+React+%2B+Spring+Boot;GATE+2026+CS+-+AIR+10%2C143;Building+GridSync+%7C+Notifly+%7C+JournalApp" alt="typing-svg" />
+
+</div>
+
 Final-year CSE undergrad (PDEU, Gandhinagar &mdash; 9.66 GPA) building **backend systems and the full-stack products around them**, not CRUD wrappers. I design for correctness under concurrency first, features second: CRDT merge logic, idempotent event pipelines, and auth systems that fail closed, not open &mdash; then ship the React/TypeScript client that talks to them.
 
 GATE 2026 CS: **AIR 10,143** (top ~5% of ~2.1 lakh candidates). 440+ problems solved across LeetCode, Codeforces, CSES, and GFG.
@@ -62,6 +68,17 @@ A Google-Sheets-style collaborative spreadsheet engine built from first principl
 | **Frontend** | React/TypeScript grid client driving live cell edits over the same WebSocket channel &mdash; full request-to-render loop, not a backend-only build |
 | **Impact** | 14-phase system design executed from scratch; persistence layer with race-condition fixes verified |
 | **Repo** | [`github.com/Sujal007T/GridSync`](https://github.com/Sujal007T/GridSync) |
+
+**Write path:**
+
+```mermaid
+flowchart LR
+    A[React Client] -->|STOMP/WS| B[HlcValidator]
+    B -->|reject stale ops| A
+    B -->|valid op| C[CrdtMerger.merge]
+    C --> D[(Postgres)]
+    C -->|broadcast| A
+```
 
 </details>
 
