@@ -3,18 +3,23 @@
 <img src="https://img.shields.io/badge/B.Tech%20CSE-PDEU%20Gandhinagar-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
 <img src="https://img.shields.io/badge/GATE%202026%20CS-AIR%2010%2C143-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="gate" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Gandhinagar%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20SDE--Backend%20Roles-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="status" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sujal-tailor/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="mailto:s.sujal.profiquence@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
-<a href="https://github.com/Sujal007T"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://www.linkedin.com/in/sujal-tailor/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&labelColor=060D08" alt="linkedin" /></a>
+<a href="mailto:s.sujal.profiquence@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=CAFF3C&labelColor=060D08" alt="email" /></a>
+<a href="https://github.com/Sujal007T"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=060D08" alt="github" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sujal007T&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
 <img src="https://img.shields.io/github/followers/Sujal007T?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/Sujal007T?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
+
+<br/><br/>
+
+[`whoami`](#-whoami) · [`projects`](#-ls-projectssortimpact) · [`stats`](#-git-stats---global) · [`contact`](#-ping-me)
 
 </div>
 
@@ -37,58 +42,6 @@ BUILDING    =  GridSync  |  Notifly  |  JournalApp
 LOCATION    =  Gandhinagar, India
 OPEN_TO     =  SDE-Backend (Fresher) | Amazon | Flipkart | Swiggy | Razorpay | CRED
 ```
-
----
-
-## `> ls /tech-stack`
-
-<div align="center">
-
-**[ Languages ]**
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,c,python,bash&theme=dark" alt="languages" />
-
-**[ Frontend ]**
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="frontend" />
-
-**[ Backend &amp; Data ]**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,redis,kafka&theme=dark" alt="backend" />
-
-**[ Cloud, DevOps &amp; Infra ]**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" alt="cloud" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**[ Systems &amp; Concurrency ]**
-
-<img src="https://img.shields.io/badge/CRDTs%20%2F%20HLC-CAFF3C?style=flat-square&labelColor=060D08" alt="crdt" />
-<img src="https://img.shields.io/badge/WebSockets%20%2F%20STOMP-CAFF3C?style=flat-square&labelColor=060D08" alt="ws" />
-<img src="https://img.shields.io/badge/Kafka%20%2F%20DLQ%20%2F%20Idempotency-CAFF3C?style=flat-square&logo=apachekafka&logoColor=000000&labelColor=060D08" alt="kafka" />
-<img src="https://img.shields.io/badge/JWT%20%2F%20RBAC%20%2F%20OAuth-CAFF3C?style=flat-square&labelColor=060D08" alt="auth" />
-<img src="https://img.shields.io/badge/Virtual%20Threads-CAFF3C?style=flat-square&logo=openjdk&logoColor=000000&labelColor=060D08" alt="vthreads" />
-<img src="https://img.shields.io/badge/Rate%20Limiting-CAFF3C?style=flat-square&labelColor=060D08" alt="ratelimit" />
-
-</div>
-
----
-
-## `> cat systems-expertise.json`
-
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| **Concurrent &amp; Distributed Systems** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | CRDT merge logic, Hybrid Logical Clocks, fractional indexing, pessimistic locking |
-| **Event-Driven Architecture** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Kafka producer/consumer, DLQ, idempotency, partition-level concurrency |
-| **Auth &amp; Authorization** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | JWT, refresh-token rotation with reuse detection, RBAC, per-op authorization |
-| **API &amp; Backend Design** | `&#9608;&#9608;&#9608;&#9608;&#9608; Strong` | Spring Boot, REST, WebSocket/STOMP, rate limiting (token bucket) |
-| **Performance Engineering** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Diagnosed I/O bottlenecks, async dispatch on virtual threads, load testing |
-| **Cloud Deployment** | `&#9608;&#9608;&#9608;&#9607;&#9607; Working` | AWS EC2 deploys, Docker, actuator health checks |
 
 ---
 
@@ -147,6 +100,58 @@ A 23-endpoint Spring Boot auth service taken from "JWT that works" to production
 
 ---
 
+## `> ls /tech-stack`
+
+<div align="center">
+
+**[ Languages ]**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,c,python,bash&theme=dark" alt="languages" />
+
+**[ Frontend ]**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="frontend" />
+
+**[ Backend &amp; Data ]**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,redis,kafka&theme=dark" alt="backend" />
+
+**[ Cloud, DevOps &amp; Infra ]**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" alt="cloud" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**[ Systems &amp; Concurrency ]**
+
+<img src="https://img.shields.io/badge/CRDTs%20%2F%20HLC-CAFF3C?style=flat-square&labelColor=060D08" alt="crdt" />
+<img src="https://img.shields.io/badge/WebSockets%20%2F%20STOMP-CAFF3C?style=flat-square&labelColor=060D08" alt="ws" />
+<img src="https://img.shields.io/badge/Kafka%20%2F%20DLQ%20%2F%20Idempotency-CAFF3C?style=flat-square&logo=apachekafka&logoColor=CAFF3C&labelColor=060D08" alt="kafka" />
+<img src="https://img.shields.io/badge/JWT%20%2F%20RBAC%20%2F%20OAuth-CAFF3C?style=flat-square&labelColor=060D08" alt="auth" />
+<img src="https://img.shields.io/badge/Virtual%20Threads-CAFF3C?style=flat-square&logo=openjdk&logoColor=CAFF3C&labelColor=060D08" alt="vthreads" />
+<img src="https://img.shields.io/badge/Rate%20Limiting-CAFF3C?style=flat-square&labelColor=060D08" alt="ratelimit" />
+
+</div>
+
+---
+
+## `> cat systems-expertise.json`
+
+| Domain | Proficiency | Details |
+| :-- | :-- | :-- |
+| **Concurrent &amp; Distributed Systems** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | CRDT merge logic, Hybrid Logical Clocks, fractional indexing, pessimistic locking |
+| **Event-Driven Architecture** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Kafka producer/consumer, DLQ, idempotency, partition-level concurrency |
+| **Auth &amp; Authorization** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | JWT, refresh-token rotation with reuse detection, RBAC, per-op authorization |
+| **API &amp; Backend Design** | `&#9608;&#9608;&#9608;&#9608;&#9608; Strong` | Spring Boot, REST, WebSocket/STOMP, rate limiting (token bucket) |
+| **Performance Engineering** | `&#9608;&#9608;&#9608;&#9608;&#9607; Advanced` | Diagnosed I/O bottlenecks, async dispatch on virtual threads, load testing |
+| **Cloud Deployment** | `&#9608;&#9608;&#9608;&#9607;&#9607; Working` | AWS EC2 deploys, Docker, actuator health checks |
+
+---
+
 ## `> cat current-focus.yaml`
 
 ```yaml
@@ -173,9 +178,9 @@ open_to:
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Sujal_D_Tailor/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=060D08" alt="leetcode" /></a>
-<a href="https://codeforces.com/profile/Sujal007T"><img src="https://img.shields.io/badge/Codeforces-CAFF3C?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=060D08" alt="codeforces" /></a>
-<a href="https://www.geeksforgeeks.org/profile/ssujalprowudu"><img src="https://img.shields.io/badge/GeeksforGeeks-CAFF3C?style=for-the-badge&logo=geeksforgeeks&logoColor=000000&labelColor=060D08" alt="gfg" /></a>
+<a href="https://leetcode.com/u/Sujal_D_Tailor/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=CAFF3C&labelColor=060D08" alt="leetcode" /></a>
+<a href="https://codeforces.com/profile/Sujal007T"><img src="https://img.shields.io/badge/Codeforces-CAFF3C?style=for-the-badge&logo=codeforces&logoColor=CAFF3C&labelColor=060D08" alt="codeforces" /></a>
+<a href="https://www.geeksforgeeks.org/profile/ssujalprowudu"><img src="https://img.shields.io/badge/GeeksforGeeks-CAFF3C?style=for-the-badge&logo=geeksforgeeks&logoColor=CAFF3C&labelColor=060D08" alt="gfg" /></a>
 
 </div>
 
@@ -185,7 +190,7 @@ open_to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujal007T&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujal007T&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal007T&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
 
 <br/>
@@ -200,7 +205,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sujal007T&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sujal007T&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers&rank=-B,-A,-A,-A,-A&title_color=CAFF3C&text_color=E8F5E1&icon_color=8AFF57&background=00000000" alt="trophies" />
 
 </div>
 
@@ -232,9 +237,9 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:s.sujal.profiquence@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/sujal-tailor/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="https://github.com/Sujal007T"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="mailto:s.sujal.profiquence@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=CAFF3C&labelColor=060D08" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/sujal-tailor/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&labelColor=060D08" alt="linkedin" /></a>
+<a href="https://github.com/Sujal007T"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=CAFF3C&labelColor=060D08" alt="github" /></a>
 
 </div>
 
