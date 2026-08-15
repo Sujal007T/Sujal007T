@@ -97,6 +97,17 @@ An event-driven notification backbone built to survive failure, not just handle 
 | **Result** | ~290 events/sec sustained, zero message loss, 5,400+ event backlog cleared &mdash; **78x improvement** |
 | **Repo** | [`github.com/Sujal007T/Notifly`](https://github.com/Sujal007T/Notifly) |
 
+**Failure-recovery path:**
+
+```mermaid
+flowchart LR
+    A[Producer] --> B[Kafka Topic]
+    B --> C[Consumer]
+    C -->|success| D[(Postgres)]
+    C -->|fail x3| E[DLQ]
+    C -->|6-way partition concurrency| C
+```
+
 </details>
 
 <details>
